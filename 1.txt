@@ -2,6 +2,7 @@
 files from the remote repository pulled successfully to local repository and modified
 """
 """
+changes made for branch called bugfix
 changes made for master branch
 """
 
