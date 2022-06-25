@@ -1,3 +1,11 @@
+"""
+files from the remote repository pulled successfully to local repository and modified
+"""
+
+
+
+
+
 def find_entropy(df):
 	Class = df.keys()[-1]
 	entropy=0
